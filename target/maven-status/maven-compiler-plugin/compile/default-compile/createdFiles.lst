@@ -1,0 +1,7 @@
+com\hibernate\example\models\PatientData.class
+com\hibernate\example\controller\GameController.class
+com\hibernate\example\GameValue.class
+com\hibernate\example\Game.class
+com\hibernate\example\Member.class
+com\hibernate\example\ExampleApplication.class
+com\hibernate\example\utils\GameValueUtils.class
