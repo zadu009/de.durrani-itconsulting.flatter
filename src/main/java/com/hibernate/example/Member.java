@@ -1,7 +1,5 @@
 package com.hibernate.example;
 
-import javax.persistence.*;
-
 public class Member {
 
     Integer id;

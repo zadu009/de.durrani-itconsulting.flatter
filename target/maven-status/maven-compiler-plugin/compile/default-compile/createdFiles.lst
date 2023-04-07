@@ -1,7 +1,15 @@
 com\hibernate\example\models\PatientData.class
 com\hibernate\example\controller\GameController.class
 com\hibernate\example\GameValue.class
-com\hibernate\example\Game.class
+com\hibernate\example\models\Game.class
+com\hibernate\example\repository\GameEngineRepository.class
 com\hibernate\example\Member.class
-com\hibernate\example\ExampleApplication.class
 com\hibernate\example\utils\GameValueUtils.class
+com\hibernate\example\repository\MessageRepository.class
+com\hibernate\example\repository\GameRepository.class
+com\hibernate\example\GameEngine.class
+com\hibernate\example\models\Message.class
+com\hibernate\example\models\Engineuser.class
+com\hibernate\example\Game.class
+com\hibernate\example\ExampleApplication.class
+com\hibernate\example\repository\GameRepoUtils.class

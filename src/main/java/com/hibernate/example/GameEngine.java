@@ -2,8 +2,6 @@ package com.hibernate.example;
 
 import java.util.List;
 
-import javax.persistence.*;
-
 public class GameEngine {
 	
 
