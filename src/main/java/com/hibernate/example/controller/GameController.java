@@ -114,7 +114,7 @@ public class GameController {
         return gameRepoUtils.checkIfUserExist(gameEngine);
     }
     
-    @PostMapping(value = "/getAllUsers", consumes = "application/json", produces = "application/json")
+    @RequestMapping(value = "/getAllUsers",consumes = "application/json", produces = "application/json", method = { RequestMethod.GET, RequestMethod.POST })
     @ResponseBody
     public List<Engineuser> getAllUsers (@RequestBody GameEngine gameEngine) {
         return gameRepoUtils.findAll();
