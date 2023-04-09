@@ -23,7 +23,7 @@ public class Game {
 	@Column(columnDefinition="VARCHAR(255)")
     String platform;
 	
-	@Column(columnDefinition="DECIMAL(255)")
+	@Column(columnDefinition="DECIMAL")
     double averageprice;
 
 	public Integer getGameID() {
